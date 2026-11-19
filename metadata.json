@@ -1,0 +1,6 @@
+{
+  "name": "Mesa Clara — Exploración Gastronómica",
+  "description": "Prototipo web móvil de exploración gastronómica editorial con carrusel circular, vista de detalle coreografiada, listado interactivo y personalización de ingredientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
